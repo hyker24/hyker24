@@ -110,15 +110,6 @@ Key courses: Scientific Computing · Algorithms & Analysis · Data Structures ·
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Thembelani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyker24&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyker24&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa)
-
-</div>
 
 ---
 
